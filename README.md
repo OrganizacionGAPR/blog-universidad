@@ -12,3 +12,7 @@
 [Documentación]
 
 [Licencia]
+
+[Edición]
+
+[Fusión]
